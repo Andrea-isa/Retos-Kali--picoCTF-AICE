@@ -3,6 +3,7 @@
 Can you reverse this [Windows Binary](https://jupiter.challenges.picoctf.org/static/0ef5d0d6d552cd5e0bd60c2adbddaa94/win-exec-1.exe)?
 
 ## Soluciòn
+```shell
 ┌──(kali㉿kali)-[~/…/RetosKali-exam--editar/CarpetaKali-exam1/Retos-Reversing/2019]
 └─$ ls
 '01- vault-door-training.md'  '04- vault-door-4.md'  '07- asm1.md'  '10- asm4.md'            '13- B1ll_Gat35.md'    miProyec.lock    need-for-speed 
